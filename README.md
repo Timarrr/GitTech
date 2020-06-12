@@ -5,7 +5,8 @@ Techno mod
 
 Adds new items, factories, walls
 
-Mode in active development
+Mod is in active development
+
 
 Group in VK https://vk.com/gittech
 
@@ -15,5 +16,6 @@ Group in VK https://vk.com/gittech
 Добавляет новые предметы, заводы, стены
 
 Мод в активной разработке
+
 
 Группа в ВК https://vk.com/gittech

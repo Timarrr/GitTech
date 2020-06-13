@@ -3,7 +3,7 @@ description:"Довольно дорогая дрель. Способна доб
 type:"Drill"
 size:3
 health:350
-tier:4
+tier:20
 drawMineItem:true
 drillTime:10
 itemCapacity:10
@@ -26,5 +26,5 @@ lead/200;
 thorium/100;
 bronze/20;
 ]
-research: lazer-drill
+research: blast-drill
 category:"production"

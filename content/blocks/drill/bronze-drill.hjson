@@ -15,7 +15,9 @@ amount:0.05
 optional:true
 booster:true
 }
-power:260
+power:{
+amount:260
+} 
 }
 requirements:[
 electronium/200;
